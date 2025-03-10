@@ -93,7 +93,7 @@ export default function CalculatorPage() {
           variant="secondary"
           onClick={() => handleButtonClick("*")}
         >
-          *
+          x
         </Button>
 
         <Button size="md" onClick={() => handleButtonClick("7")}>

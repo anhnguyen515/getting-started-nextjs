@@ -12,11 +12,6 @@ export default function Home() {
         category that you want to see.
       </p>
       <div className="flex gap-4 mt-8">
-        <Link href="/components">
-          <Button level="normal" variant="primary" size="lg">
-            Components
-          </Button>
-        </Link>
         <Link href="/calculator">
           <Button level="normal" variant="primary" size="lg">
             Calculator
